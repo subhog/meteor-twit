@@ -1,4 +1,3 @@
-
 Twit by ttezel
 ==============
 
@@ -18,7 +17,7 @@ Place this on the server side
       , consumer_secret:      '...'
       , access_token:         '...'
       , access_token_secret:  '...'
-    })
+    });
 
 
 Usage
