@@ -13,7 +13,7 @@ Create new Twit
 
 Place this on the server side
 
-    Twit = new Twit({
+    Twit = new TwitMaker({
         consumer_key:         '...'
       , consumer_secret:      '...'
       , access_token:         '...'
